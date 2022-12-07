@@ -1,0 +1,37 @@
+.photo{
+    margin: center;
+text-align: center;
+}
+.search{
+    margin: center;
+text-align: center;
+background-color: rgba(245, 239, 239, 0.799);
+margin-bottom: 20px;
+}
+.block1 {
+    padding: 10px;
+    border: 1px solid #ccc;
+    flex: 1;
+    margin: 10;
+   
+}
+.block2 {
+    padding: 10px;
+    border: 1px solid #ccc;
+    flex: 1;
+    margin: 10;
+}
+.block3 {
+    padding: 10px;
+    border: 1px solid #ccc;
+    flex: 1;
+    margin: 10;
+}
+.blocks{
+    display: flex;
+    background-color: aqua;
+}
+.footer{
+    margin: center;
+    text-align: center;
+}

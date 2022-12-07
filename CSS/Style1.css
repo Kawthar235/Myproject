@@ -1,0 +1,86 @@
+.head-1{
+
+     text-align: center;
+     font-size: 0%;
+     padding: 2%;
+     padding-bottom: 0%;
+     margin-bottom: 0%;
+     
+
+}
+
+.container-2{
+
+    text-align: center;
+    background-color: rgb(235, 231, 231);
+    padding-top: 1px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+   
+}
+h4 {
+    margin: 2px 0px 0px 0px;
+}
+
+.form-label .input1 {
+    
+    border-radius: 8px;
+    width: 30%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+.block-1{
+    border-radius: 10px;
+    background-color: rgb(84, 170, 170);
+    float: left;
+    width: 33.3%;
+    border: 1px solid #ccc;
+    padding: 1px;
+  
+}
+
+.block-1 ul{
+    font-size: small;
+    text-align: center;
+    padding: 1%;
+    list-style: none;
+}
+.block-2{
+    font-size: small;
+    border-radius: 10px;
+    background-color: rgb(130, 175, 175);
+    float: left;
+    width: 33.3%;
+    border: 1px solid #ccc;
+    padding: 1px;
+    
+}
+
+.block-2 ul{
+    font-size: small;
+    text-align: center;
+    padding: 0%;
+    list-style: none;
+}
+.block-3 { 
+    border-radius: 10px;
+    background-color: rgb(138, 168, 168);
+    float: left;
+    
+    width: 33.3%;
+    border: 1px solid #ccc;
+    padding: 17px;
+    
+    text-align: center;
+}
+
+h5 {
+margin: 2px 0px 0px 0px;
+}
+
+footer h4{
+    text-align: center;
+    padding-top: 10%;
+}
